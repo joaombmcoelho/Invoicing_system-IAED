@@ -1,7 +1,7 @@
 # Invoicing System IAED
 
 - Nota: 
-	- Automática: /16
+	- Automática: 75/80
   	- Abstração de Dados: 
 	- Qualidade do Código: /4
 
