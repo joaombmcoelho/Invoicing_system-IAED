@@ -9,8 +9,8 @@ A command-line invoicing system developed in C for the IAED course (2025/2026) a
 ### Project Features
 * Product and Cart Management: Supports up to 10,000 products, EAN-8/13 check-digit validation, and real-time billing with VAT
 * Pattern Matching: Custom search algorithm using wildcards (* and ?)
-* Memory-Optimized: Built with dynamic memory allocation, zero global variables, and fully validated with Valgrind
-* Strict Constraints: No use of `goto"`, `extern"`, or native `qsort`
+* Memory-Optimized: Built with dynamic memory allocation, zero global variables, tested with Valgrind
+* Strict Constraints: No use of `goto`, `extern`, or native `qsort`
 
 ### Compilation
 
