@@ -1,4 +1,4 @@
-# Invoicing System (IAED)
+# Invoicing System - Introduction to Algorithms and Data Structures (IAED)
 
 A command-line invoicing system developed in C for the IAED course (2025/2026) at Instituto Superior Técnico (IST)
 
